@@ -4,3 +4,6 @@ body {
     display:flex;
     flex-direction:column;
 }
+#header, footer {
+    background-color:#1F2937;
+}
