@@ -9,7 +9,7 @@ https://pixabay.com/vectors/chronograph-chronometer-clock-160753/ (timer picture
 
 https://pixabay.com/vectors/medal-ribbon-award-first-place-34109/ (medal image)
 
-https://pixabay.com/vectors/checker-flag-race-checkered-flag-1648337/ (race image)
+https://unsplash.com/es/fotos/qcblfK7kjL4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink(race image)
 
 https://pixabay.com/vectors/social-media-connections-networking-3846597/ (community image)
 
