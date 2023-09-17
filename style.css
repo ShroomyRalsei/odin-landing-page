@@ -49,3 +49,8 @@ ul {
 #header, .info, .quote, footer {
     padding:0 100px;
 }
+#header-top {
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
