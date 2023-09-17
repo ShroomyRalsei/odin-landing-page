@@ -47,7 +47,7 @@ ul {
     gap:30px;
 }
 #header, .info, .quote, footer {
-    padding:0 100px 0 200px;
+    padding:0 100px 80px 200px;
 }
 #header-top {
     display:flex;
