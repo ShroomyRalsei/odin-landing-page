@@ -73,6 +73,7 @@ ul {
 }
 .info-container {
     display:flex;
+    gap:60px;
 }
 .info-div {
     flex:1;
