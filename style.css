@@ -121,4 +121,6 @@ footer, .info-container {
 .container {
     padding:25px 150px;
     border-radius:1%;
+    display:flex;
+    justify-content:space-between;
 }
