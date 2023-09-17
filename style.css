@@ -71,18 +71,18 @@ ul {
 .info-header, footer {
     text-align:center;
 }
-.fig-container {
+.info-container {
     display:flex;
 }
-.info-fig {
+.info-div {
     flex:1;
     display:flex;
     flex-direction:column;
     align-items:center;
 }
-.fig-img {
+.div-img {
     height:150px;
 }
-figcaption {
+p {
     flex:1;
 }
