@@ -112,4 +112,6 @@ footer, .info-container {
 }
 .sign-up {
     padding:10px 30px;
+    border:none;
+    border-radius:10%;
 }
