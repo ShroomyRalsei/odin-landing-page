@@ -74,6 +74,7 @@ ul {
 .info-container {
     display:flex;
     gap:60px;
+    flex-wrap:wrap;
 }
 .info-div {
     flex:1;
