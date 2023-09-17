@@ -54,3 +54,12 @@ ul {
     align-items:center;
     justify-content:space-between;
 }
+#header-bottom {
+    display:flex;
+}
+#left {
+    flex:2;
+}
+#right {
+    flex:1;
+}
