@@ -81,7 +81,7 @@ ul {
     align-items:center;
 }
 .img-container {
-    width:150px;
+    width:100%;
     height:150px;
     border:10px solid #3882F6;
 }
