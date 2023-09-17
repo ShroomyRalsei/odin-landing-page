@@ -94,3 +94,6 @@ ul {
 p {
     flex:1;
 }
+footer, .info, .quote {
+    padding-right:200px;
+}
