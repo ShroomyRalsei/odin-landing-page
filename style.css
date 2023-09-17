@@ -74,3 +74,9 @@ ul {
 .fig-container {
     display:flex;
 }
+.info-fig {
+    flex:1;
+}
+.fig-img {
+    height:150px;
+}
