@@ -63,3 +63,8 @@ ul {
 #right {
     flex:1;
 }
+#header {
+    display:flex;
+    flex-direction:column;
+    gap:50px;
+}
