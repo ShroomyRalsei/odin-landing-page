@@ -44,3 +44,6 @@ ul {
     padding:0;
     list-style-type:none;
 }
+#header, .info, .quote, footer {
+    padding:0 100px;
+}
