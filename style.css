@@ -71,3 +71,6 @@ ul {
 .info-header, footer {
     text-align:center;
 }
+.fig-container {
+    display:flex;
+}
