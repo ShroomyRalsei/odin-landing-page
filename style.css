@@ -68,3 +68,6 @@ ul {
     flex-direction:column;
     gap:50px;
 }
+.info-header, footer {
+    text-align:center;
+}
