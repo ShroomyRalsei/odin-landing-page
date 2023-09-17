@@ -118,3 +118,7 @@ footer, .info-container {
 #button-1 {
     border:none;
 }
+.container {
+    padding:25px 150px;
+    border-radius:1%;
+}
